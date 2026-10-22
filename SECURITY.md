@@ -15,6 +15,6 @@ If you discover a security vulnerability or exploit within this plugin, please *
 
 Instead, please report it privately:
 - Contact the maintainer directly via **GitHub Private Vulnerability Reporting** (if enabled), or
-- Send an email to: `tuamail@example.com` *(sostituisci con la tua mail)*
+- Send an email to: `suppcelinegod@gmail.com`
 
 You will receive a response within **48 hours**. Thank you for helping keep this project secure!
